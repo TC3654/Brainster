@@ -1,4 +1,0 @@
-### Workshop #8: final answers
-Problem 1: using m=10000 bootstraps and seed np.random.seed(555), the result I got is: 90% CI = (43.4, 70.6) <br /> 
-Problem 2: lambda-hat = 0.60996094 <br /> 
-Problem 3: MAP = 0.5714285714285715
